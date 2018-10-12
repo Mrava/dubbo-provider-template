@@ -1,0 +1,6 @@
+/template-provider/target
+/template-provider/*.iml
+/template-pom.iml
+/template-api/target
+/template-api/template-api.iml
+/.idea
